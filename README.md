@@ -1,2 +1,3 @@
 # hello-world
 Resources for learning and creating.
+My name is Kevin Jones.  I'm fairly new to programming with a host of interests inline with technology. Started studying C++ around 1996.  My first exposure to the world of computer programming,  At that time, Java was the most popular(the web was a "new thing" for most at that time) programming language.  Decided on learning C++ because it was closer to the machine than Java.  Long story short, I learned a great deal about OOP/OOD, but was left confused because there was no direct connection between C++ and web development.  Now, in 2019, decided to jump back into the game now that hybrid technologies are on the rise with the hope of shortening the mobile app development process.
